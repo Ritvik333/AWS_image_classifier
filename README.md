@@ -1,6 +1,6 @@
-# Image Recognition System on AWS
+# LambdaVision
 
-**Image Recognition System** is a cloud-based platform developed for the **Cloud Computing Term Assignment** at Dalhousie University. It enables users to upload images, which are processed using machine learning models to identify objects within the images. Built on Amazon Web Services (AWS), this system is designed to be scalable, secure, and cost-effective, providing a seamless experience for image classification tasks (e.g., identifying animals or objects). The React-based frontend interfaces with a serverless and event-driven backend to deliver a robust user experience.
+**LambdaVision** is a cloud-based platform developed for the **Cloud Computing Term Assignment** at Dalhousie University. The system allows users to upload images, which are then processed using MobileNetSSD, which combines MobileNet, a streamlined convolutional neural network (CNN) architecture, with Single Shot MultiBox Detector (SSD), a method for detecting objects in images in a single pass to identify objects within the images. The primary goal of the system is to provide a scalable, secure, and cost-effective solution for image recognition tasks. The system is designed for general users who need to classify images (e.g., identifying animals, multiple objects in a single image) and is expected to handle moderate traffic with low latency responses.
 
 ---
 
