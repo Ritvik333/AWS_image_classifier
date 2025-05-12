@@ -16,6 +16,14 @@
 
 ---
 
+## Architecture Diagram
+
+Below is the architecture diagram illustrating the system’s components and their interactions:
+
+![Architecture Diagram](architecture_diagram.png)
+
+---
+
 ## Tech Stack
 
 - **Frontend**: React (JavaScript)
